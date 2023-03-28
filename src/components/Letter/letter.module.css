@@ -1,0 +1,13 @@
+.letter {
+  border: 1px solid black;
+  padding: 5px;
+  font-size: 40px;
+  width: 40px;
+  height: 40px;
+  background-color: #ababab;
+  scale: 80%;
+}
+.available {
+  background-color: #a96dd6;
+  scale: 100%;
+}

@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.letterSet {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+.actions {
+  display: flex;
+  flex-wrap: no-wrap;
+  gap: 40px;
+  justify-content: center;
+  margin: 0px 40px;
+}
